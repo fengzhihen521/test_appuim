@@ -1,4 +1,4 @@
-#安装APP后启动进入登录页面
+##安装APP后启动进入登录页面
 from appium import webdriver #导入appium
 from selenium.common.exceptions import NoSuchElementException #导入错误日志
 
