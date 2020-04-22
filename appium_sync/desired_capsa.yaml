@@ -1,0 +1,15 @@
+platformName: Android
+platformVersion: 6.0.1
+deviceName: 127.0.0.1:22471
+#udid: udid值 #真机需要输入udid
+automationName: uiautomator2 #配置uiautomator2
+
+app: /Users/chabuduoxiansheng/Desktop/kaoyan3.1.0.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+
+noReset: False #True屏蔽弹窗，False不屏蔽弹窗
+unicodeKeyboard: True #用户名为中文需要配置
+resetKeyboard: True #用户名为中文需要配置
+
+ip: 127.0.0.1

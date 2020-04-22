@@ -1,0 +1,81 @@
+2020-03-24 21:42:29,107 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 21:45:29,637 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 22:08:25,218 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 22:08:44,216 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-24 22:08:44,653 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-24 22:09:00,960 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 22:09:11,164 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-24 22:09:11,366 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-24 22:39:52,716 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 22:40:12,270 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-24 22:40:12,977 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-24 22:40:14,197 loginView.py[line:15] INFO ============login_action============
+2020-03-24 22:40:14,197 loginView.py[line:16] INFO username is:xiaodashu
+2020-03-24 22:40:15,800 loginView.py[line:19] INFO password is:liuyueoeng0108
+2020-03-24 22:40:16,362 loginView.py[line:22] INFO ============click loginBit============
+2020-03-24 22:40:16,894 loginView.py[line:25] INFO ============login finished!============
+2020-03-24 22:40:56,059 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 22:41:10,041 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-24 22:41:10,593 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-24 22:41:11,299 loginView.py[line:15] INFO ============login_action============
+2020-03-24 22:41:11,299 loginView.py[line:16] INFO username is:xiaodashu
+2020-03-24 22:41:12,838 loginView.py[line:19] INFO password is:liuyueoeng0106
+2020-03-24 22:41:13,387 loginView.py[line:22] INFO ============click loginBit============
+2020-03-24 22:41:13,939 loginView.py[line:25] INFO ============login finished!============
+2020-03-24 22:41:37,767 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 22:41:53,238 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-24 22:41:53,437 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-24 22:41:54,187 loginView.py[line:15] INFO ============login_action============
+2020-03-24 22:41:54,187 loginView.py[line:16] INFO username is:xiaodashu
+2020-03-24 22:41:55,687 loginView.py[line:19] INFO password is:liuyuepeng0106
+2020-03-24 22:41:56,286 loginView.py[line:22] INFO ============click loginBit============
+2020-03-24 22:41:56,839 loginView.py[line:25] INFO ============login finished!============
+2020-03-24 23:43:49,073 desired_caps.py[line:29] INFO qidong APP
+2020-03-24 23:44:08,245 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-24 23:44:08,758 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-24 23:44:09,461 loginView.py[line:15] INFO ============login_action============
+2020-03-24 23:44:09,461 loginView.py[line:16] INFO username is:xiaodashu
+2020-03-24 23:44:10,942 loginView.py[line:19] INFO password is:liuyuepeng0106
+2020-03-24 23:44:11,492 loginView.py[line:22] INFO ============click loginBit============
+2020-03-24 23:44:11,992 loginView.py[line:25] INFO ============login finished!============
+2020-03-25 01:00:57,038 desired_caps.py[line:29] INFO qidong APP
+2020-03-25 01:06:01,399 desired_caps.py[line:29] INFO qidong APP
+2020-03-25 01:23:03,378 desired_caps.py[line:29] INFO qidong APP
+2020-03-25 01:23:30,251 desired_caps.py[line:29] INFO qidong APP
+2020-03-25 01:23:39,701 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-25 01:23:40,200 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-25 01:23:53,501 desired_caps.py[line:29] INFO qidong APP
+2020-03-25 01:24:03,771 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-25 01:24:04,032 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-25 01:24:04,763 loginView.py[line:15] INFO ============login_action============
+2020-03-25 01:24:04,763 loginView.py[line:16] INFO username is:xiaodashu
+2020-03-25 01:24:06,321 loginView.py[line:19] INFO password is:liuyuepeng0106
+2020-03-25 01:24:06,870 loginView.py[line:22] INFO ============click loginBit============
+2020-03-25 01:24:07,425 loginView.py[line:25] INFO ============login finished!============
+2020-03-25 01:24:18,572 desired_caps.py[line:29] INFO qidong APP
+2020-03-25 01:24:32,570 common_fun.py[line:12] INFO =================check cancelBtn=================
+2020-03-25 01:24:32,818 common_fun.py[line:22] INFO =================check skipBtn=================
+2020-03-25 01:24:33,584 loginView.py[line:15] INFO ============login_action============
+2020-03-25 01:24:33,584 loginView.py[line:16] INFO username is:xiaodashu
+2020-03-25 01:24:35,018 loginView.py[line:19] INFO password is:liuyuepeng0106
+2020-03-25 01:24:35,566 loginView.py[line:22] INFO ============click loginBit============
+2020-03-25 01:24:36,115 loginView.py[line:25] INFO ============login finished!============
+2020-03-25 01:37:40,542 desired_caps.py[line:30] INFO qidong APP
+2020-03-25 01:37:57,171 common_fun.py[line:12] INFO ==========check_cancelBtn=========
+2020-03-25 01:37:58,079 common_fun.py[line:21] INFO =========check skipBtn=============
+2020-03-25 01:37:58,879 loginView.py[line:15] INFO ============login_action==============
+2020-03-25 01:37:58,879 loginView.py[line:16] INFO username is:自学网2018
+2020-03-25 01:38:00,422 loginView.py[line:19] INFO password is:zxw2018
+2020-03-25 01:38:00,967 loginView.py[line:22] INFO click loginBtn
+2020-03-25 01:38:02,109 loginView.py[line:24] INFO login finished!
+2020-03-25 01:41:56,217 desired_caps.py[line:27] INFO start app...
+2020-03-25 02:32:36,688 desired_caps.py[line:27] INFO start app...
+2020-03-25 02:49:51,791 desired_caps.py[line:31] INFO start app...
+2020-03-25 02:50:10,508 common_fun.py[line:12] INFO ==========check_cancelBtn=========
+2020-03-25 02:50:11,168 common_fun.py[line:21] INFO =========check skipBtn=============
+2020-03-25 02:50:12,486 loginView.py[line:15] INFO ============login_action==============
+2020-03-25 02:50:12,486 loginView.py[line:16] INFO username is:自学网2018
+2020-03-25 02:50:15,232 loginView.py[line:19] INFO password is:zxw2018
+2020-03-25 02:50:15,779 loginView.py[line:22] INFO click loginBtn
+2020-03-25 02:50:16,285 loginView.py[line:24] INFO login finished!
+2020-03-25 21:57:18,233 desired_caps.py[line:31] INFO start app...

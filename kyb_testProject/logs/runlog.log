@@ -1,0 +1,175 @@
+2020-03-26 23:32:03,118 myunit.py[line:8] INFO =====setUp====
+2020-03-26 23:32:03,122 desired_caps.py[line:39] INFO start app...
+2020-03-26 23:32:16,464 test_register.py[line:11] INFO =========test_user_register===========
+2020-03-26 23:32:16,465 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-26 23:32:17,117 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-26 23:32:18,376 registerView.py[line:43] INFO ============register_action=============
+2020-03-26 23:32:19,327 registerView.py[line:48] INFO set userheader
+2020-03-26 23:32:24,928 registerView.py[line:54] INFO username is zxw2020lyp4060
+2020-03-26 23:32:27,016 registerView.py[line:58] INFO username is zxw20206874
+2020-03-26 23:32:28,120 registerView.py[line:62] INFO username is 51lyp7863@163.com
+2020-03-26 23:32:48,330 registerView.py[line:74] ERROR register fail!
+2020-03-26 23:32:48,330 common_fun.py[line:61] INFO get register fail! screenshots
+2020-03-26 23:32:48,783 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 14:18:59,252 myunit.py[line:8] INFO =====setUp====
+2020-03-27 14:18:59,256 desired_caps.py[line:39] INFO start app...
+2020-03-27 14:19:10,696 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2020-03-27 14:19:10,697 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 14:19:10,697 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 14:20:19,509 myunit.py[line:8] INFO =====setUp====
+2020-03-27 14:20:19,515 desired_caps.py[line:39] INFO start app...
+2020-03-27 14:20:39,224 test_login.py[line:11] INFO ======test_login_zxw2018=====
+2020-03-27 14:20:39,224 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 14:20:39,225 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 14:20:39,524 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 14:20:40,275 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 14:20:40,275 loginView.py[line:23] INFO username is:自学网2018
+2020-03-27 14:20:41,735 loginView.py[line:27] INFO password is:zxw2018
+2020-03-27 14:20:42,336 loginView.py[line:31] INFO click loginBtn
+2020-03-27 14:20:42,931 loginView.py[line:35] INFO login finished!
+2020-03-27 14:20:42,931 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 14:20:42,932 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 14:20:53,725 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 14:21:03,082 loginView.py[line:62] INFO login success!
+2020-03-27 14:21:03,082 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 14:21:08,432 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 14:22:24,804 myunit.py[line:8] INFO =====setUp====
+2020-03-27 14:22:24,809 desired_caps.py[line:39] INFO start app...
+2020-03-27 14:22:36,894 test_login.py[line:21] INFO ======test_login_zxw2017=====
+2020-03-27 14:22:36,894 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 14:22:36,895 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 14:22:37,297 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 14:22:38,046 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 14:22:38,046 loginView.py[line:23] INFO username is:自学网2017
+2020-03-27 14:22:39,586 loginView.py[line:27] INFO password is:zxw2017
+2020-03-27 14:22:40,186 loginView.py[line:31] INFO click loginBtn
+2020-03-27 14:22:40,740 loginView.py[line:35] INFO login finished!
+2020-03-27 14:22:40,740 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 14:22:40,741 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 14:22:51,038 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 14:23:07,446 loginView.py[line:62] INFO login success!
+2020-03-27 14:23:07,446 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 14:23:09,835 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 14:23:30,769 myunit.py[line:8] INFO =====setUp====
+2020-03-27 14:23:30,773 desired_caps.py[line:39] INFO start app...
+2020-03-27 14:23:42,740 test_login.py[line:30] INFO ======test_login_error=====
+2020-03-27 14:23:42,741 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 14:23:42,741 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 14:23:42,986 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 14:23:44,536 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 14:23:44,536 loginView.py[line:23] INFO username is:6666
+2020-03-27 14:23:46,586 loginView.py[line:27] INFO password is:2222
+2020-03-27 14:23:47,186 loginView.py[line:31] INFO click loginBtn
+2020-03-27 14:23:47,736 loginView.py[line:35] INFO login finished!
+2020-03-27 14:23:47,736 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 14:23:47,737 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 14:23:56,489 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 14:24:18,251 loginView.py[line:58] ERROR login fail!
+2020-03-27 14:24:18,252 common_fun.py[line:61] INFO get ogin fail! screenshots
+2020-03-27 14:24:18,843 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 14:24:20,490 myunit.py[line:8] INFO =====setUp====
+2020-03-27 14:24:20,494 desired_caps.py[line:39] INFO start app...
+2020-03-27 14:24:31,689 test_login.py[line:21] INFO ======test_login_zxw2017=====
+2020-03-27 14:24:31,690 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 14:24:31,691 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 14:24:31,886 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 14:24:33,437 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 14:24:33,437 loginView.py[line:23] INFO username is:自学网2017
+2020-03-27 14:24:34,888 loginView.py[line:27] INFO password is:zxw2017
+2020-03-27 14:24:35,438 loginView.py[line:31] INFO click loginBtn
+2020-03-27 14:24:35,986 loginView.py[line:35] INFO login finished!
+2020-03-27 14:24:35,987 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 14:24:35,987 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 14:24:44,496 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 14:24:53,541 loginView.py[line:62] INFO login success!
+2020-03-27 14:24:53,541 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 14:24:55,838 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 14:24:57,949 myunit.py[line:8] INFO =====setUp====
+2020-03-27 14:24:57,952 desired_caps.py[line:39] INFO start app...
+2020-03-27 14:25:14,650 test_login.py[line:12] INFO ======test_login_zxw2018=====
+2020-03-27 14:25:14,651 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 14:25:14,652 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 14:25:15,239 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 14:25:15,986 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 14:25:15,986 loginView.py[line:23] INFO username is:自学网2018
+2020-03-27 14:25:17,387 loginView.py[line:27] INFO password is:zxw2018
+2020-03-27 14:25:17,993 loginView.py[line:31] INFO click loginBtn
+2020-03-27 14:25:18,538 loginView.py[line:35] INFO login finished!
+2020-03-27 14:25:18,538 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 14:25:18,538 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 14:25:28,145 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 14:25:43,037 loginView.py[line:62] INFO login success!
+2020-03-27 14:25:43,037 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 14:25:45,842 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 15:16:34,940 run.py[line:24] INFO start run test case...
+2020-03-27 15:16:34,941 myunit.py[line:8] INFO =====setUp====
+2020-03-27 15:16:34,945 myunit.py[line:8] INFO =====setUp====
+2020-03-27 15:16:34,948 desired_caps.py[line:39] INFO start app...
+2020-03-27 15:16:48,374 test_login.py[line:21] INFO ======test_login_zxw2017=====
+2020-03-27 15:16:48,374 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 15:16:48,375 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 15:16:48,791 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 15:16:50,295 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 15:16:50,295 loginView.py[line:23] INFO username is:自学网2017
+2020-03-27 15:16:53,175 loginView.py[line:27] INFO password is:zxw2017
+2020-03-27 15:16:53,712 loginView.py[line:31] INFO click loginBtn
+2020-03-27 15:16:54,222 loginView.py[line:35] INFO login finished!
+2020-03-27 15:16:54,222 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 15:16:54,223 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 15:17:04,575 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 15:17:18,705 loginView.py[line:62] INFO login success!
+2020-03-27 15:17:18,705 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 15:17:21,637 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 15:17:23,337 myunit.py[line:8] INFO =====setUp====
+2020-03-27 15:17:23,343 desired_caps.py[line:39] INFO start app...
+2020-03-27 15:17:34,600 test_login.py[line:12] INFO ======test_login_zxw2018=====
+2020-03-27 15:17:34,600 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 15:17:34,600 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 15:17:35,343 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 15:17:36,044 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 15:17:36,046 loginView.py[line:23] INFO username is:自学网2018
+2020-03-27 15:17:37,544 loginView.py[line:27] INFO password is:zxw2018
+2020-03-27 15:17:38,094 loginView.py[line:31] INFO click loginBtn
+2020-03-27 15:17:38,643 loginView.py[line:35] INFO login finished!
+2020-03-27 15:17:38,643 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 15:17:38,643 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 15:17:50,056 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 15:17:58,960 loginView.py[line:62] INFO login success!
+2020-03-27 15:17:58,960 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 15:18:01,558 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 16:22:47,809 run.py[line:24] INFO start run test case...
+2020-03-27 16:22:47,809 myunit.py[line:8] INFO =====setUp====
+2020-03-27 16:22:47,818 myunit.py[line:8] INFO =====setUp====
+2020-03-27 16:22:47,821 desired_caps.py[line:39] INFO start app...
+2020-03-27 16:22:57,049 test_login.py[line:21] INFO ======test_login_zxw2017=====
+2020-03-27 16:22:57,049 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 16:22:57,050 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 16:22:57,628 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 16:22:58,334 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 16:22:58,334 loginView.py[line:23] INFO username is:自学网2017
+2020-03-27 16:22:59,787 loginView.py[line:27] INFO password is:zxw2017
+2020-03-27 16:23:00,547 loginView.py[line:31] INFO click loginBtn
+2020-03-27 16:23:01,060 loginView.py[line:35] INFO login finished!
+2020-03-27 16:23:01,060 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 16:23:01,060 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 16:23:09,109 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 16:23:18,028 loginView.py[line:62] INFO login success!
+2020-03-27 16:23:18,030 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 16:23:20,222 myunit.py[line:12] INFO ====tearDown====
+2020-03-27 16:23:22,348 myunit.py[line:8] INFO =====setUp====
+2020-03-27 16:23:22,351 desired_caps.py[line:39] INFO start app...
+2020-03-27 16:23:32,603 test_login.py[line:12] INFO ======test_login_zxw2018=====
+2020-03-27 16:23:32,604 common_fun.py[line:77] INFO ========get_csv_data=========
+2020-03-27 16:23:32,604 common_fun.py[line:18] INFO ==========check_cancelBtn=========
+2020-03-27 16:23:33,173 common_fun.py[line:28] INFO =========check skipBtn=============
+2020-03-27 16:23:33,919 loginView.py[line:22] INFO ============login_action==============
+2020-03-27 16:23:33,920 loginView.py[line:23] INFO username is:自学网2018
+2020-03-27 16:23:35,476 loginView.py[line:27] INFO password is:zxw2018
+2020-03-27 16:23:36,058 loginView.py[line:31] INFO click loginBtn
+2020-03-27 16:23:36,564 loginView.py[line:35] INFO login finished!
+2020-03-27 16:23:36,565 loginView.py[line:50] INFO ============check_loginStatus===========
+2020-03-27 16:23:36,565 common_fun.py[line:66] INFO =========check_market_ad==========
+2020-03-27 16:23:44,669 loginView.py[line:39] INFO ============check_account_alert===========
+2020-03-27 16:23:53,002 loginView.py[line:62] INFO login success!
+2020-03-27 16:23:53,002 loginView.py[line:68] INFO ============logout_action===========
+2020-03-27 16:23:55,731 myunit.py[line:12] INFO ====tearDown====

@@ -1,0 +1,20 @@
+platformName: Android
+#模拟器
+platformVersion: 6.0.1
+deviceName: 127.0.0.1:22471
+
+#mx4真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+
+appname: kaoyan3.1.0.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+automationName: uiautomator2 #配置uiautomator2
+
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723
